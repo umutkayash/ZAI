@@ -1,0 +1,2 @@
+1-)eğer train ve valid lost az ise öğrenmiyor ezberliyor demektir.
+2-)0 olduğu durumlarda direkt durdurması gerekir.
